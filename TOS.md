@@ -1,6 +1,6 @@
 # Terms of Service
 
-**zoned in** (the "Bot")
+**Zoned In** (the "Bot")
 Last updated: November 18, 2026
 
 By adding the Bot to a server or using its commands, you agree to these terms. If you do not agree, do not use the Bot.
