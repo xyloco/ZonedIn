@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**zoned in** (the "Bot")
+**Zoned In** (the "Bot")
 Last updated: November 18, 2026
 
 This policy explains what information the Bot collects, how it is used, and the choices you have. By using the Bot you agree to this policy.
