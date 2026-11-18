@@ -57,7 +57,7 @@ We may update these terms from time to time. The "Last updated" date shows the l
 
 ## 11. Governing law
 
-These terms are governed by the laws of [THE PHILPINES], without regard to conflict of law rules.
+These terms are governed by the laws of [THE PHILIPPINES], without regard to conflict of law rules.
 
 ## 12. Contact
 
